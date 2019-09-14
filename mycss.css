@@ -2,7 +2,7 @@ p {color: gray;}
 li{border: dashed blue 1px;}
 
 
-.graa {background: gray;}
+.graa {background: gray; color: green;}
 .green{background: green;}
 
 #firstMenu { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
