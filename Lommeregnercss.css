@@ -1,0 +1,11 @@
+button, input, label {
+    font-size: 40px;
+  }
+  
+  input {
+    width: 15vw;
+  }
+  
+  #c {
+    width: 40vw;
+  }
