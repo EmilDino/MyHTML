@@ -2,7 +2,7 @@
 #Overskrift{
     font-family: 'Nixie One', cursive;
     color: gray;
-    font-size: 40px;
+    font-size: 55px;
     margin-top: 0px;
     margin-bottom: 0px;
  }
@@ -14,5 +14,9 @@
     margin: 0;
 }
 
- #Helvetica{font-family: Helvetica, sans-serif;}
+ #Helvetica{
+    font-family: Helvetica, sans-serif;
+    line-height: normal;
+    margin: 0;
+}
 
